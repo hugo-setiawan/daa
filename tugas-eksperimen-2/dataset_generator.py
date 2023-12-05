@@ -1,7 +1,7 @@
 import random
 import csv
 
-MAX_NUM = 100
+MAX_NUM = 25
 MIN_NUM = 1
 
 SIZE_KECIL = 10
